@@ -18,8 +18,8 @@ Install the required Python libraries:
 
 Running the Script
 
-    Ensure your DSC data file is in a compatible format (e.g., CSV).
-    Modify dsc.py to specify the file path of your DSC data file (e.g., input_file = 'path_to_your_data.pdid.txt').
+    Ensure your DSC data file is in a compatible format (.txt).
+    Type path to data file directly into the terminal when prompted.
 
 Output
 
