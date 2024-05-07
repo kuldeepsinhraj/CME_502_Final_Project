@@ -14,8 +14,6 @@ Requirements
     Python 3.x
     Required Python libraries: numpy, matplotlib, and scipy
 
-Install the required Python libraries:
-
 Running the Script
 
     Ensure your DSC data file is in a compatible format (.txt).
